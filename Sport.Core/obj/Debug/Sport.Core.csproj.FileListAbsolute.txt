@@ -1,0 +1,11 @@
+C:\Users\sab\source\repos\EventSportAplication\Sport.Core\bin\Debug\Sport.Core.dll.config
+C:\Users\sab\source\repos\EventSportAplication\Sport.Core\bin\Debug\Sport.Core.dll
+C:\Users\sab\source\repos\EventSportAplication\Sport.Core\bin\Debug\Sport.Core.pdb
+C:\Users\sab\source\repos\EventSportAplication\Sport.Core\bin\Debug\EntityFramework.dll
+C:\Users\sab\source\repos\EventSportAplication\Sport.Core\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\sab\source\repos\EventSportAplication\Sport.Core\bin\Debug\EntityFramework.xml
+C:\Users\sab\source\repos\EventSportAplication\Sport.Core\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\sab\source\repos\EventSportAplication\Sport.Core\obj\Debug\Sport.Core.csproj.CopyComplete
+C:\Users\sab\source\repos\EventSportAplication\Sport.Core\obj\Debug\Sport.Core.dll
+C:\Users\sab\source\repos\EventSportAplication\Sport.Core\obj\Debug\Sport.Core.pdb
+C:\Users\sab\source\repos\EventSportAplication\Sport.Core\obj\Debug\Sport.Core.csprojAssemblyReference.cache
